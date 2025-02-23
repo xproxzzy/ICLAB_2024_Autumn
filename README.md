@@ -12,5 +12,6 @@ Integrated Circuit Design Laboratory
 | **Demo**  | 1st    | 1st    | 1st    | 1st    | 1st    | 1st    | 1st    | 1st           | -          |
 | **Rank**  | 65/139 | 38/141 | 82/138 | 4/137  | 5/136  | -      | -      | 50/134        | -          |
 | **Score** | 97.68  | 92.13  | 82.00  | 99.78  | 99.04  | 100    | 100    | 89.03         | 89.5       |
+
 Original Score: 96.59 (rank：26 / 136)
 Final score: 97/100, A+
